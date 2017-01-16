@@ -30,6 +30,7 @@ import butterknife.ButterKnife;
  * --确定Tab选中和不选中的颜色
  * 3.布局的FrameLayout由四个xxxFragment来提供(使用FragmentManager来替换内容),每个xxxFragment由工厂提供唯一;
  * 1.创建四个xxxFragment类及工厂
+ * 2.BottomBar设置监听器OnTabSelectListener(Main布局的FrameLayout填充相应的***Fragment,由工厂提供)
  */
 public class MainActivity extends BaseActivity {
 
