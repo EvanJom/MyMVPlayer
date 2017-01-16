@@ -8,7 +8,6 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 
 import com.itheima.mvplayer.R;
-import com.itheima.mvplayer.ui.BaseActivity;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

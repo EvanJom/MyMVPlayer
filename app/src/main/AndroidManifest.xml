@@ -19,6 +19,10 @@
         <activity android:name=".ui.Activity.MainActivity">
         </activity>
 
+        <activity android:name=".ui.Activity.SettingActivity">
+
+        </activity>
+
     </application>
 
 </manifest>

@@ -1,4 +1,4 @@
-package com.itheima.mvplayer.ui;
+package com.itheima.mvplayer.ui.Activity;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
